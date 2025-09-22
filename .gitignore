@@ -1,0 +1,14 @@
+# Archivos ejecutables de C++
+*.exe
+*.out
+
+# Archivos objeto
+*.o
+*.obj
+
+# Archivos de depuración y de IDEs
+*.gch
+*.dSYM
+*.pdb
+.vs/
+.vscode/
